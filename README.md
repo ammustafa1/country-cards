@@ -7,10 +7,10 @@
 ##About
 This is an application built to demmonstrate my ability to integrate multiple APIs into a simple front end web app.
 
-I used the folllowing technologies in the development of Country Cards
-HTML
-CSS
-CSS Framework: https://www.getpapercss.com/
-JavaScript
-API: https://countriesnow.space/ - This is called upon to provide the country capital.
-API: https://restcountries.com/ - This is called upon to provide the country flag, language, and currency.
+##Technologies Used
+- HTML
+- CSS
+- CSS Framework: https://www.getpapercss.com/
+- javaScript
+- API: https://countriesnow.space/ - This is called upon to provide the country capital.
+- API: https://restcountries.com/ - This is called upon to provide the country flag, language, and currency.
